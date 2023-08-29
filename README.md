@@ -19,3 +19,6 @@ https://co-tracker.github.io/
 https://arxiv.org/abs/2307.07635
 
 ## Output
+https://github.com/camenduru/cotracker-colab/assets/54370274/7311d8ed-cbef-4839-9d56-5fe52637c202
+
+https://github.com/camenduru/cotracker-colab/assets/54370274/65a70327-8a89-4436-b540-12bb67ffa206
