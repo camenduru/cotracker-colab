@@ -10,6 +10,7 @@
 
 ## Main Repo
 https://github.com/facebookresearch/co-tracker
+https://huggingface.co/spaces/facebook/cotracker/tree/main
 
 ## Page
 https://co-tracker.github.io/
