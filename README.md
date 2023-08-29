@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/cotracker-colab/blob/main/cotracker_colab.ipynb) | cotracker_colab
 
 ## Main Repo
-https://github.com/facebookresearch/co-tracker
-https://huggingface.co/spaces/facebook/cotracker/tree/main
+https://github.com/facebookresearch/co-tracker <br /> 
+https://huggingface.co/spaces/facebook/cotracker/tree/main <br />
 
 ## Page
 https://co-tracker.github.io/
